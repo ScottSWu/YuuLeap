@@ -1,0 +1,24 @@
+{
+  "name": "yuu-leap",
+  "version": "1.0.0",
+  "description": "This thing does stuff with the Leap Motion.",
+  "main": "Yuu-leap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottSWu/YuuLeap.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottSWu/YuuLeap/issues"
+  },
+  "homepage": "https://github.com/ScottSWu/YuuLeap#readme",
+  "dependencies": {
+    "leapjs": "^0.6.4",
+    "minimist": "^1.2.0",
+    "socket.io": "^1.4.5"
+  }
+}
